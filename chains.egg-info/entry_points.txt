@@ -1,0 +1,2 @@
+[console_scripts]
+chains = chains.cli:app
