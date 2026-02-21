@@ -50,7 +50,7 @@ Chains:     Statistical causal attribution → "retrieval fails on long queries"
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/chains.git
+git clone https://github.com/opencausality/chains.git
 cd chains
 pip install -e ".[dev]"
 cp .env.example .env
